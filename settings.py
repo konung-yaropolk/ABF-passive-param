@@ -16,7 +16,7 @@ SHOW_GRAPH = False
 SAVE_GRAPH = True     # save summary figure for each listed .abf file
 SAVE_FORMAT = 'png'   # png, svg, pdf, eps
 
-DIRECTORY = 'F:/Lab Work Files/Patch-clamp data'    # full path to directory with files, leave empty if you run this script in it
+DIRECTORY = 'F:/LabWork/Patch-clamp data'    # full path to directory with files, leave empty if you run this script in it
 
 FILES_LIST = [
 
